@@ -1,0 +1,32 @@
+        /* Widths */
+
+.xs {width: 10%;}
+.s {width: 20%;}
+.m {width: 40%;}
+.mm {width: 50%;}
+.l {width: 60%;}
+.xl {width: 80%;}
+.fullw {width: 100%;}
+
+        /* Alignements */
+
+.center {align-items: center;}
+
+*>.bottom {align-items: end;}
+.bottom {align-items: end;}
+.bottom>* {margin-bottom: 0;}
+
+.top {align-items: start;}
+*>.top {align-items: start;}
+.top>* {margin-top: 0;}
+
+.mid {justify-content: center;}
+.left {justify-content: left;}
+.right {justify-content: right;}
+.spa_ar {justify-content: space-around;}
+.spa_be {justify-content: space-between;}
+
+        /* Links */
+
+.no_deco {text-decoration: none;}
+.hover_color_on:hover {color: var(--secondary-light-color); border-color: var(--secondary-light-color);}
