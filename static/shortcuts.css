@@ -1,12 +1,22 @@
         /* Widths */
 
-.xs {width: 10%;}
-.s {width: 20%;}
-.m {width: 40%;}
-.mm {width: 50%;}
-.l {width: 60%;}
-.xl {width: 80%;}
+.wxs {width: 10%;}
+.ws {width: 20%;}
+.wm {width: 40%;}
+.wmm {width: 50%;}
+.wl {width: 60%;}
+.wxl {width: 80%;}
 .fullw {width: 100%;}
+
+        /* Height */
+
+.hxs {height: 10%;}
+.hs {height: 20%;}
+.hm {height: 40%;}
+.hmm {height: 50%;}
+.hl {height: 60%;}
+.hxl {height: 80%;}
+.fullh {height: 100%;}
 
         /* Alignements */
 
